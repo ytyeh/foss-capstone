@@ -51,7 +51,7 @@ icon:
 # Page tree
 nav:
 - Home: index.md
-- Data: Data_Management_Plan.md
+- Page: Governance_Operations.md
 
 # Extra Plugins
 plugins:
