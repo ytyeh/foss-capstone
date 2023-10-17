@@ -19,7 +19,7 @@ font:
     text: Roboto
     code: Regular
 palette:
-    scheme: default
+    scheme: slate
     primary: cyan
     accent: deep orange
 
