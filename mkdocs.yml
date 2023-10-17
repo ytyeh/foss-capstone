@@ -13,14 +13,14 @@ copyright: 'Copyright &copy; 2023 - 2024'
 
 # Configuration
 theme:
-    name: mkdocs
+    name: material
 highlightjs: true
 font:
     text: Roboto
     code: Regular
 palette:
     scheme: default
-    primary: light blue
+    primary: cyan
     accent: deep orange
 
 # Features  
