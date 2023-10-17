@@ -20,8 +20,6 @@ font:
     code: Regular
 palette:
     scheme: slate
-    primary: cyan
-    accent: deep orange
 
 # Features  
 features:
