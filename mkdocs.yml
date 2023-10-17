@@ -1,6 +1,6 @@
-site_name: FOSS exercise
+site_name: Yun-Ting's Website (Testing)
 site_description: Testing website
-site_author: Yeh
+site_author: Yun-Ting Yeh
 site_url: https://ytyeh.github.io/foss-capstone
 
 # Repository
@@ -55,6 +55,10 @@ nav:
 - Home: index.md
 - Data Management Plan: Data_Management_Plan.md
 - Governance Operations: Governance_Operations.md
+
+# Theme Extras
+extra_css:
+  - stylesheets/extra.css
 
 # Extra Plugins
 plugins:
