@@ -1,8 +1,8 @@
-# FOSS Capstone Project
+# Yun-Ting's Website (Testing)
 
 ### Hello!
 
-This is a testing website for **FOSS 2023 Capstone Project** created by [Yun-Ting Yeh](yyeh@arizona.edu). I plan to populate the website as my research progresses :smiley: :feet:.
+This is a testing website created by [Yun-Ting Yeh](yyeh@arizona.edu), following the weekly homework for **FOSS 2023 Capstone Project**. I plan to populate the website as my research progresses :smiley: :feet:.
 
 </br>
 </br>
