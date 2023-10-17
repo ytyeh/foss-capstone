@@ -1,6 +1,6 @@
 # Data Management Plan
 
-This document records data management plan for my 2nd year paper, "Cost of Pollution to Firms: Water Pollution and Beverage Manufacturers' Entry". This document will be updated to reflect changes as the project proceeds.
+This document records data management plan for my 2nd year project, "Cost of Pollution to Firms: Water Pollution and Beverage Manufacturers' Entry". This document will be updated to reflect changes as the project proceeds.
 
 ## 1. Data Description
 Historial Business Data is provided by Data Axle, accessed through Wharton Data Service (WDS). Data includes company information for all establishments in the U.S. for each year from 1997 to 2021. The data is stored in csv files. 
