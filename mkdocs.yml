@@ -19,7 +19,8 @@ font:
     text: Roboto
     code: Regular
 palette:
-    scheme: slate
+    primary: custom
+    accent: custom
 
 # Features  
 features:
