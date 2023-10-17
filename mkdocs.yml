@@ -21,6 +21,7 @@ font:
 palette:
     scheme: default
     primary: cyan
+    accent: deep orange
 
 # Features  
 features:
