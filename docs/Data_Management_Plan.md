@@ -1,7 +1,7 @@
 ## Data Management Plan
 </br>
 
-This document records data management plan for my 2nd year project, "Cost of Pollution to Firms: Water Pollution and Beverage Manufacturers' Entry". This document will be updated to reflect changes as the project proceeds.
+This document records data management plan for my 2nd year project, "Cost of Pollution to Firms: Water Pollution and Beverage Manufacturers' Entry". It currently focuses on the main dataset used in the project. This document will be updated to reflect changes as the project proceeds.
 
 </br>
 
