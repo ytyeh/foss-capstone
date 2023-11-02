@@ -2,7 +2,7 @@
 
 Here are some plots from my 2nd-year project which studies the effect of water pollution on beverage manufacturers' entry decisions. The sample period is from 2006 to 2019. 
 
-
+</br>
 
 ### Data Sources: 
 - Dissolved oxygen (DO) readings from [Water Quality Portal](https://www.waterqualitydata.us/)
@@ -12,6 +12,7 @@ Here are some plots from my 2nd-year project which studies the effect of water p
 - Stream network and flow direction from [USGS NHDPlusV2](https://www.usgs.gov/national-hydrography/nhdplus-high-resolution)
 - Weather from [PRISM Annual Normals (M4)](https://prism.oregonstate.edu/normals/)
 
+</br>
 
 ### Descriptive Statistics:
 At annual, county level:
@@ -22,6 +23,7 @@ At annual, county level:
 2. Average Net Entry of Beverage Manufacturers
 ![map_ave_net_bus](https://github.com/ytyeh/foss-capstone/assets/133822845/e4b7f3a4-ade0-402f-a332-8307d047e329)
 
+</br>
 
 ### Preliminary Result:
 Using upstream state's past CWSRF allotment as an instrument for the downstream, adjacent county's DO readings, I found that firms are more likely to locate at places with cleaner water. The plot below shows the first-stage estimates with different lags and leads: 
