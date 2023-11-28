@@ -14,19 +14,4 @@ Here are some plots from my 2nd-year project which studies **the effect of water
 
 </br>
 
-### Descriptive Statistics:
-At annual, county level:
-
-1. Average DO Concentrations
-![map_ave_do](https://github.com/ytyeh/foss-capstone/assets/133822845/51a0c824-b557-4928-bb31-63f2f9be5fdb)
- 
-2. Average Net Entry of Beverage Manufacturers
-![map_ave_net_bus](https://github.com/ytyeh/foss-capstone/assets/133822845/e4b7f3a4-ade0-402f-a332-8307d047e329)
-
-</br>
-
-### Preliminary Result:
-Using upstream state's past CWSRF allotment as an instrument for the downstream, adjacent county's DO readings, I found that **firms are more likely to locate at places with cleaner water**. The plot below shows the first-stage estimates with different lags and leads: 
-
-![first_stage_95ci_mgl](https://github.com/ytyeh/foss-capstone/assets/133822845/8f518d66-014b-4bfc-bb94-a89f5e3e2b40)
 
